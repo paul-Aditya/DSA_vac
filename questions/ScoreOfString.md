@@ -1,4 +1,4 @@
-# [[leetcode]](https://leetcode.com/problems/score-of-a-string/description/)
+  [[leetcode]](https://leetcode.com/problems/score-of-a-string/description/)
 ```
  Score of a String
 ```
